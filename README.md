@@ -1,20 +1,31 @@
-# TugasAkhir_FahryanBagusAnanda_3202116051
+## 3202116051_Fahryan Bagus Ananda_TugasAkhir
 
-## CodeIgniter 4 Application Starter
+## RANCANG BANGUN APLIKASI PEMESANAN PRODUK BOUQUET DAN HAMPERS PADA THE EVGIFT BERBASIS WEB
 
-### What is CodeIgniter?
+## Deskripsi Singkat Aplikasi
+Aplikasi ini berbasis web yang di dalam aplikasi merupakan aplikasi yang membantu pembeli untuk melihat dan membeli/memesan produk bouquet dan hampers di toko the evgift 
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.  
-More information can be found at the [official site](https://codeigniter.com).
+## Penggunaan Aplikasi Untuk Admin Toko The Evgift
+1. Login dengan akun yang sudah ada untuk admin toko
+2. Setelah login akan menampilkan dashboard khusus untuk admin
+3. Admin memiliki hak akses seperti :
+   - CRUD Data pengguna
+   - CRUD Data produk
+   - CRUD Data Kategori produk (bouquet/hampers) 
 
-This repository holds a composer-installable app starter.  
-It has been built from the [development repository](https://github.com/codeigniter4/CodeIgniter4).
+## Penggunaan Aplikasi Untuk Pengguna
+1. Register akun bagi pengguna yang mau membuat akun sendiri
+2. Login dengan akun yang sudah dibuatkan admin atau dibuat sendiri
+3. Setelah login akan menampilkan dashboard khusus untuk Pengguna/Pengunjung
+4. Siswa memiliki hak akses seperti :
+   - CRUD Data Pribadi
+   - Membeli/Memesan Produk
+   - Melihat Isi Produk yang dijual pada Toko
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+## Data Admin
+Username : eva
+Password : 111111
 
-You can read the [user guide](https://codeigniter.com/user_guide/) corresponding to the latest version of the framework.
-
-### Installation & updates
-
-```bash
-composer create-project codeigniter4/appstarter
+## Data Pengguna (Yang sudah ada)
+Username : paijago
+Password : 111111

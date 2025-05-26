@@ -3,29 +3,37 @@
 ## RANCANG BANGUN APLIKASI PEMESANAN PRODUK BOUQUET DAN HAMPERS PADA THE EVGIFT BERBASIS WEB
 
 ## Deskripsi Singkat Aplikasi
-Aplikasi ini berbasis web yang di dalam aplikasi merupakan aplikasi yang membantu pembeli untuk melihat dan membeli/memesan produk bouquet dan hampers di toko the evgift 
+Aplikasi ini merupakan sistem pemesanan berbasis web yang dirancang untuk membantu pengguna dalam melihat, memilih, dan memesan produk bouquet dan hampers dari toko *The EVGIFT*. Aplikasi ini dikembangkan menggunakan **CodeIgniter 4**.
 
-## Penggunaan Aplikasi Untuk Admin Toko The Evgift
-1. Login dengan akun yang sudah ada untuk admin toko
-2. Setelah login akan menampilkan dashboard khusus untuk admin
-3. Admin memiliki hak akses seperti :
-   - CRUD Data pengguna
-   - CRUD Data produk
-   - CRUD Data Kategori produk (bouquet/hampers) 
+## Fitur Utama
+- Manajemen produk bouquet dan hampers
+- Sistem login dan registrasi
+- Halaman dashboard untuk admin dan pengguna
+- Fitur pemesanan dan pelacakan pesanan
+- Manajemen data pengguna dan kategori produk
 
-## Penggunaan Aplikasi Untuk Pengguna
-1. Register akun bagi pengguna yang mau membuat akun sendiri
-2. Login dengan akun yang sudah dibuatkan admin atau dibuat sendiri
-3. Setelah login akan menampilkan dashboard khusus untuk Pengguna/Pengunjung
-4. Siswa memiliki hak akses seperti :
-   - CRUD Data Pribadi
-   - Membeli/Memesan Produk
-   - Melihat Isi Produk yang dijual pada Toko
+## Penggunaan Aplikasi - Admin Toko *The EVGIFT*
+1. Login menggunakan akun admin yang telah disediakan.
+2. Setelah login, admin akan diarahkan ke halaman dashboard.
+3. Admin memiliki hak akses penuh terhadap sistem, seperti:
+   - CRUD Data Pengguna
+   - CRUD Data Produk
+   - CRUD Data Kategori (Bouquet/Hampers)
 
-## Data Admin
-Username : eva
-Password : 111111
+## Penggunaan Aplikasi - Pengguna Umum
+1. Pengguna dapat melakukan registrasi melalui halaman yang tersedia.
+2. Login menggunakan akun yang dibuat sendiri atau diberikan oleh admin.
+3. Setelah login, pengguna dapat:
+   - Mengelola data pribadi
+   - Melihat katalog produk
+   - Melakukan pemesanan produk
 
-## Data Pengguna (Yang sudah ada)
-Username : paijago
-Password : 111111
+## Akun yang Sudah Tersedia
+
+### Admin
+- **Username:** eva  
+- **Password:** 111111  
+
+### Pengguna
+- **Username:** paijago  
+- **Password:** 111111  
